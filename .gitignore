@@ -10,5 +10,5 @@ sdkconfig.old
 
 # Editor / local tooling
 .vscode/
-.clangd/
+.clangd
 .claude/

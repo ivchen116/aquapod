@@ -96,7 +96,7 @@ static void camera_task(void *param)
     }
 }
 
-void app_main(void)
+void app_main1(void)
 {
     if (camera_init() != ESP_OK) {
         ESP_LOGE(TAG, "Camera setup failed, stop boot process");
